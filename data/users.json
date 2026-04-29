@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "pass": "ca86f96d9c755f2f09ffd5adc4f6bc1f2765967283e1c52251436e42b83022ca",
+    "role": "Administrator",
+    "name": "Admin",
+    "mustChange": false
+  },
+  "officer": {
+    "pass": "b6e528d9e00bf779fa1529fa94fac2361a96a5035291e46d3cbe08648bc5ecb6",
+    "role": "Security Officer",
+    "name": "Security Officer",
+    "mustChange": true
+  },
+  "manager": {
+    "pass": "6f05a36c7aa21452917293abbd5c085eb78d373bf5e830145d417756ba5557a1",
+    "role": "Site Manager",
+    "name": "Site Manager",
+    "mustChange": true
+  }
+}
