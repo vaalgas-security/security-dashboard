@@ -30,9 +30,9 @@
     "mustChange": false
   },
   "security@vaalgas.co.za": {
-    "pass": "d773210489f6a41430a6057ce047eb24ae9d6a83ff7df2d8b4d7708cc39f8b3a",
+    "pass": "0937356c3e8c782d3ad962a996951fbbed91c92b2d5a732a45e280d01425a56d",
     "role": "Site Manager",
     "name": "Jenny Pieters",
-    "mustChange": true
+    "mustChange": false
   }
 }
