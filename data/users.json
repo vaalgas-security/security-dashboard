@@ -28,5 +28,11 @@
     "role": "Administrator",
     "name": "Charl Campbell",
     "mustChange": false
+  },
+  "security@vaalgas.co.za": {
+    "pass": "d773210489f6a41430a6057ce047eb24ae9d6a83ff7df2d8b4d7708cc39f8b3a",
+    "role": "Site Manager",
+    "name": "Jenny Pieters",
+    "mustChange": true
   }
 }
